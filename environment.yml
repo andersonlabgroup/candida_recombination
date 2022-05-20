@@ -1,0 +1,22 @@
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - r-base=3.5.3
+  - r-ggplot2
+  - r-stringr
+  - r-ggpubr
+  - r-diptest
+  - r-chisq.posthoc.test
+  - r-gridextra
+  - python=3.7.3
+  - pip
+  - pip:
+    - statistics
+    - operator
+    - random
+    - numpy
+    - copy
+    - sys
+    - os
