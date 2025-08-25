@@ -14,6 +14,8 @@ markers. [This README describes the project’s full bioinformatics
 pipeline, from demultiplexing raw sequencing reads to quantifying
 recombination]{.underline}**
 
+**** Note the demo data is too large to be housed in Github and can be found at https://drive.google.com/file/d/1-BYEgQ6LUE9Aq08E2CXh6u1J0_lC78ew/view?usp=sharing ****
+
 #### [Tested Operating Systems]{.underline}
 
 -   [Linux (Ubuntu): 22.04.5 LTS “Jammy Jellyfish”]{.underline}
